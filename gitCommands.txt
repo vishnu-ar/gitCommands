@@ -1,0 +1,4 @@
+git init  : to initialize git
+git add -A  : to add file to staging area
+git commit -m"<message> " : to commit changes with message
+git push -u master : to push files
